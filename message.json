@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "message": "20520.jpg_wh1200",
+            "type": 1,
+            "self": 0
+        },
+        {
+            "id": 2,
+            "message": "http://seopic.699pic.com/photo/50035/0520.jpg_wh1200.jpg",
+            "type": 2,
+            "self": 0
+        },
+        {
+            "id": 3,
+            "message": {
+                "url": "http://xmdx.sc.chinaz.com/Files/DownLoad/sound1/201612/8129.mp3",
+                "length": 8
+            },
+            "type": 3,
+            "self": 0
+        },
+        {
+            "id": 4,
+            "message": "smiley",
+            "type": 4,
+            "self": 1
+        },
+        {
+            "id": 5,
+            "message": "http://www.haopic.me/wp-content/uploads/2015/07/20150705010125112.jpg",
+            "type": 2,
+            "self": 1
+        },
+        {
+            "id": 6,
+            "message": "Hello, nice to meet you",
+            "type": 1,
+            "self": 0
+        },
+        {
+            "id": 7,
+            "message": "smiley",
+            "type": 4,
+            "self": 0
+        }
+    ]
+}
